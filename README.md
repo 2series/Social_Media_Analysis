@@ -1,4 +1,4 @@
-# Analysis of social media with R
+## Social Media Analysis with R
 
 Diving into the world of social media and learning the science and art behind leveraging the power of R and analytics to transform data into actionable insights. This book will provide you with detailed strategies, workflows and hands-on approaches to tap into data from diverse social media platforms and showcase the power of leveraging analytics to get insightful information.
 
